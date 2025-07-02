@@ -20,7 +20,7 @@
 
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,rabbitmq,redis,html,css,js,ts,angular,git,github,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,rabbitmq,redis,html,css,js,ts,node,angular,git,github,docker&theme=dark"/>
 
 <img src="https://skillicons.dev/icons?i=windows,linux,bash,vscode,heroku&theme=dark"/>
 
